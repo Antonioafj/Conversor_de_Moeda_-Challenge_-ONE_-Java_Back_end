@@ -19,7 +19,7 @@
 
   # :hammer: Funcionalidades do projeto
   
-  - `1`: Obtem a cotação de moedas nacionais e mostra o valor dela convertido na moeda desejada , contação em tempo real.
+  - `1`: Obtem a cotação de moedas nacionais e mostra o valor dela convertido na moeda desejada , cotação em tempo real.
 
  
  ![este](https://github.com/user-attachments/assets/f8b8d76d-bafb-437b-adba-4e63d3b79210)
