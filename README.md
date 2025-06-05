@@ -44,7 +44,8 @@ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Ant
   
    [<img loading="lazy" src="https://avatars.githubusercontent.com/u/167789057?s=400&u=21052b749353169db846fbab43111257cd8342eb&v=4" width=115><br><sub>Antonio Alves Ferreira Jr.</sub>](https://github.com/Antonioafj)
 
-  
+
+ 
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
   
   # Autores
